@@ -5,10 +5,10 @@ class Rasla {
     this.username = "abinesh156";
     this.name = "Thinesh Rasla";
     this.position = "Senior Software Engineer";
-    this.blog = "medium.com/@raslarasla";
+    this.blog = "medium.com/@abinesh156";
     this.socials = {
       twitter: "https://twitter.com/0xrasla",
-      github: "https://github.com/0xrasla",
+      github: "https://github.com/abinesh156",
       linkedin: "https://www.linkedin.com/in/thinesh-rasla-779ba2189/",
       instagram: "https://instagram.com/dev_rasla",
       youtube: "https://www.youtube.com/channel/UC_-Sg3dW0yIathaX7-RtJMQ",
