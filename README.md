@@ -1,14 +1,14 @@
-console.log("👋 Hello there! Let's meet abinesh!");
+console.log("👋 Hello there! Let's meet Thinesh Rasla!");
 
 class Rasla {
   constructor() {
-    this.username = "abinesh156";
+    this.username = "0xrasla";
     this.name = "Thinesh Rasla";
     this.position = "Senior Software Engineer";
-    this.blog = "medium.com/@abinesh156";
+    this.blog = "medium.com/@raslarasla";
     this.socials = {
       twitter: "https://twitter.com/0xrasla",
-      github: "https://github.com/abinesh156",
+      github: "https://github.com/0xrasla",
       linkedin: "https://www.linkedin.com/in/thinesh-rasla-779ba2189/",
       instagram: "https://instagram.com/dev_rasla",
       youtube: "https://www.youtube.com/channel/UC_-Sg3dW0yIathaX7-RtJMQ",
