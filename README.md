@@ -3,13 +3,13 @@ console.log("👋 Hello there! I am Thinesh Rasla!");
 
 class Rasla {
   constructor() {
-    this.username = "0xrasla";
+    this.username = "Abinesh156";
     this.name = "Thinesh Rasla";
     this.position = "Senior Software Engineer";
     this.blog = "medium.com/@raslarasla";
     this.socials = {
-      twitter: "https://twitter.com/0xrasla",
-      github: "https://github.com/0xrasla",
+      twitter: "https://twitter.com/Abinesh156",
+      github: "https://github.com/Abinesh156",
       linkedin: "https://www.linkedin.com/in/thinesh-rasla-779ba2189/",
       instagram: "https://instagram.com/dev_rasla",
       youtube: "https://www.youtube.com/channel/UC_-Sg3dW0yIathaX7-RtJMQ",
@@ -60,9 +60,9 @@ if (require.main === module) {
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xrasla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=0xrasla&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xrasla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=great-gatsby&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinesh156&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abinesh156&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abinesh156&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=great-gatsby&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -195,12 +195,12 @@ if (require.main === module) {
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/0xrasla/0xrasla/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abinesh156/Abinesh156/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/0xrasla/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Abinesh156/count.svg?"  />
 </div>
 
 <h2 align="left">Latest Blog Posts</h2>
