@@ -1,10 +1,10 @@
 ```js
-console.log("👋 Hello there! I am Thinesh Rasla!");
+console.log("👋 Hello there! I am Abinesh!");
 
 class Rasla {
   constructor() {
     this.username = "Abinesh156";
-    this.name = "Thinesh Rasla";
+    this.name = "Abinesh";
     this.position = "Senior Software Engineer";
     this.blog = "medium.com/@raslarasla";
     this.socials = {
