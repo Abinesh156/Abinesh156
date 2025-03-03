@@ -1,7 +1,7 @@
 ```js
 console.log("👋 Hello there! I am Abinesh!");
 
-class Rasla {
+class abinesh {
   constructor() {
     this.username = "Abinesh156";
     this.name = "Abinesh";
