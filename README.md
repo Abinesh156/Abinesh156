@@ -52,7 +52,7 @@ class abinesh {
 }
 
 if (require.main === module) {
-  const me = new Rasla();
+  const me = new abinesh();
   console.log(me.toString());
 }
 ```
