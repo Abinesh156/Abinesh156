@@ -9,10 +9,10 @@ class abinesh {
     this.blog = "medium.com/@raslarasla";
     this.socials = {
       twitter: "https://twitter.com/Abinesh156",
-      github: "https://github.com/Abinesh156",
-      linkedin: "https://www.linkedin.com/in/thinesh-rasla-779ba2189/",
-      instagram: "https://instagram.com/dev_rasla",
-      youtube: "https://www.youtube.com/channel/UC_-Sg3dW0yIathaX7-RtJMQ",
+      github: "",
+      linkedin: "",
+      instagram: "",
+      youtube: "",
     };
     this.code = {
       backend: ["NestJs", "Node", "Python", "Fastify", "Express"],
