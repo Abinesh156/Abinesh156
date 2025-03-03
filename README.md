@@ -129,7 +129,7 @@ if (require.main === module) {
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abinesh156/Abinesh156/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
