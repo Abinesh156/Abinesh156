@@ -5,7 +5,7 @@ class abinesh {
   constructor() {
     this.username = "Abinesh156";
     this.name = "Abinesh";
-    this.position = "Senior Software Engineer";
+    this.position = "Devops Engineer";
     this.blog = "medium.com/@raslarasla";
     this.socials = {
       twitter: "https://twitter.com/Abinesh156",
