@@ -24,4 +24,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          token: ${{ secrets.GITHUB_TOKEN }} # ✅ required
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ✅ must be in env, not with
