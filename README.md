@@ -59,3 +59,10 @@
 <br clear="both">
 
 <img src="https://abinesh156.github.io/Abinesh156/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
+### ⏳ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
