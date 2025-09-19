@@ -55,16 +55,7 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinesh156/abinesh156/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinesh156/abinesh156/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abinesh156/abinesh156/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://abinesh156.github.io/Abinesh156/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
