@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake and Deploy
 
 on:
   schedule:
@@ -28,8 +28,8 @@ jobs:
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
-          name: github-pages   # ✅ only one artifact named github-pages
+          path: dist   # ✅ all files inside dist will be uploaded as artifact
+          name: github-pages   # ✅ only one artifact, avoids "multiple artifact" error
 
   deploy:
     needs: build
