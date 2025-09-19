@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Runs once a week, Sunday at 00:00 UTC
+    - cron: "0 0 * * 0" # Runs once a week (Sunday at 00:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,11 +25,19 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
 
-      - name: Upload for Pages
+      - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+          name: github-pages   # ✅ only one artifact named github-pages
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
