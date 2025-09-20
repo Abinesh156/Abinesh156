@@ -59,3 +59,5 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LOC_CHART: "False"
+        env:
+          GITHUB_REPOSITORY: "Abinesh156/Abinesh156"
