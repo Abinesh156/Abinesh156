@@ -20,14 +20,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinesh156&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abinesh156&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
-</div>
-
-###
 
 <img align="right" height="140" src="https://media1.tenor.com/m/pMYQAlYxa80AAAAC/coding.gif"  />
 
