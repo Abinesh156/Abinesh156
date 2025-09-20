@@ -62,4 +62,17 @@
 
 ### ⏳ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+From: 12 September 2025 - To: 19 September 2025
+
+Total Time: 3 hrs 6 mins
+
+YAML         2 hrs 51 mins   ███████████████████████░░   91.89 %
+JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
