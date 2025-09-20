@@ -61,3 +61,4 @@ jobs:
           SHOW_LOC_CHART: "False"
         env:
           GITHUB_REPOSITORY: "Abinesh156/Abinesh156"
+          GITHUB_ACTOR: "Abinesh156"
