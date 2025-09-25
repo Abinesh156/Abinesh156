@@ -69,3 +69,5 @@ Python       11 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/ab5f202a-2384-4c71-8fb8-292c99893026.svg)](https://wakatime.com/@ab5f202a-2384-4c71-8fb8-292c99893026)
+
