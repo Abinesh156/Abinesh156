@@ -57,15 +57,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-Total Time: 9 hrs 5 mins
+Total Time: 9 hrs 30 mins
 
-YAML         5 hrs 51 mins   ████████████████░░░░░░░░░   64.33 %
-JavaScript   1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
-JSON         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-INI          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-TOML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+YAML         4 hrs           ██████████▒░░░░░░░░░░░░░░   40.79 %
+JavaScript   3 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.11 %
+JSON         1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+TOML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
