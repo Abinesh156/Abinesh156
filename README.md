@@ -57,15 +57,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2025 - To: 27 September 2025
+From: 26 September 2025 - To: 03 October 2025
 
-Total Time: 9 hrs 30 mins
+Total Time: 36 mins
 
-YAML         4 hrs           ██████████▒░░░░░░░░░░░░░░   40.79 %
-JavaScript   3 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.11 %
-JSON         1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-TOML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other        51 mins         ██████████████▓░░░░░░░░░░   58.64 %
+YAML         15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+Python       9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Groovy       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
 ```
 
 <!--END_SECTION:waka-->
