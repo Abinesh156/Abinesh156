@@ -54,5 +54,5 @@ jobs:
           GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}   # ✅ must be PAT
           SHOW_TITLE: "true"
           TIME_RANGE: "last_7_days"
-          LANG_COUNT: 5
+          LANG_COUNT: 8
           SHOW_TOTAL: "true"
