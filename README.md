@@ -57,17 +57,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 26 October 2025 - To: 02 November 2025
 
-Total Time: 4 hrs 48 mins
+Total Time: 4 hrs 19 mins
 
-Python       3 hrs 25 mins   ███████████████▒░░░░░░░░░   61.13 %
-YAML         57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Other        47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Git Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       2 hrs 56 mins   ██████████████▒░░░░░░░░░░   57.53 %
+YAML         57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Other        46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Git Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
