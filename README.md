@@ -57,14 +57,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 28 December 2025 - To: 04 January 2026
 
-Total Time: 1 hr 20 mins
+Total Time: 1 hr 22 mins
 
-Python     44 mins         █████████████▓░░░░░░░░░░░   54.44 %
-JSON       22 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 %
-Markdown   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python     38 mins         ███████████▓░░░░░░░░░░░░░   46.93 %
+JSON       29 mins         █████████░░░░░░░░░░░░░░░░   36.20 %
+Markdown   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
